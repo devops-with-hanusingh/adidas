@@ -1,4 +1,4 @@
-Here's another list of 10 best AI tools, covering a range of applications:
+Here's another list of 10 best AI tools:
 
 TensorFlow: A popular open-source deep learning framework for building and training neural networks.
 
