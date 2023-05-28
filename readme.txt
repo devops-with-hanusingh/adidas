@@ -16,4 +16,4 @@ Here's another list of 10 best AI tools:
 
 7)IBM Watson: IBM Watson is an AI platform that offers various services, such as natural language understanding, chatbots, recommendation systems, and predictive analytics.
 
-8)Amazon Rekognition: Amazon Rekognition is a cloud-based service that provides powerful image and video analysis capabilities, including facial analysis, object detection, and text recognition.
+8)Amazon Rekognition: Amazon Rekognition is a cloud-based service that provides powerful image and video analysis capabilities, including facial analysis, and text recognition.
